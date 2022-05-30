@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aveekstx
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning js and node, dsa:)
-- 💞️ I look forward to collaborate on open source web dev project
+- 👀 I’m interested in Web development.
+- 🌱 I’m currently learning javascript and UI/UX.
+- 💞️ I look forward to a front end web development and machine learning internship.
 - 📫 email:  abhikstx05@gmail.com
