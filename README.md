@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @aveekstx
-- 👀 I’m interested in Web development.
-- 🌱 I’m currently learning javascript and UI/UX.
-- 💞️ I look forward to a front end web development and machine learning internship.
+- 👀 Curiousity breeds success
+- 🌱 I’m currently working as a Oracle DBA
 - 📫 email:  abhikstx05@gmail.com
